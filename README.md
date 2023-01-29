@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello everyone 👋! 
+## 👨‍💻 My name is Victor Panaiot and I am Backend Python-Developer
+## 📝About me
+I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://itmo.ru/) with a degree in "Software Engineer"
+Now I am studying at [ITMO University](https://itmo.ru/) for a bachelor's degree.
+📫 How to reach me: eMail: panaetvitea@gmail.com or Telegram: @Vitoliot 
 
-<!--
-**Vitoliot/Vitoliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🥇:Statistic
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitoliot&show_icons=true&count_private=true)   
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoliot)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vitoliot)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+![GitHub metrics](https://metrics.lecoq.io/Vitoliot) 
