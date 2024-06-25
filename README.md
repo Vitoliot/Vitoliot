@@ -1,7 +1,7 @@
 # Hello everyone 👋! 
-## 👨‍💻 My name is Victor Panaiot and I am Backend Python-Developer
+## 👨‍💻 My name is Victor Panaiot and I am Backend Golang-Developer
 ## 📝About me
-I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://itmo.ru/) with a degree in "Software Engineer"
+I am 22 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://itmo.ru/) with a degree in "Software Engineer"
 Now I am studying at [ITMO University](https://itmo.ru/) for a bachelor's degree.
 📫 How to reach me: eMail: panaetvitea@gmail.com or Telegram: @Vitoliot 
 
