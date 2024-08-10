@@ -1,15 +1,79 @@
-# Hello everyone 👋! 
-## 👨‍💻 My name is Victor Panaiot and I am Backend Golang-Developer
-## 📝About me
-I am 22 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://itmo.ru/) with a degree in "Software Engineer"
-Now I am studying at [ITMO University](https://itmo.ru/) for a bachelor's degree.
-📫 How to reach me: eMail: panaetvitea@gmail.com or Telegram: @Vitoliot 
+<div id="header" align="center">
+    <h1>Hello, I'm  Viktor </h1>
+    <h3>Developer from Saint-Petersburg</h3>
+</div>
 
-## 🥇:Statistic
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitoliot&show_icons=true&count_private=true)   
+<div id="socials" align="center">
+  <a href="https://t.me/Vitoliot">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:panaetvitea@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoliot)](https://github.com/anuraghazra/github-readme-stats)
+<div id="info" align="center">
+<a href="https://github.com/Vitoliot">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Vitoliot&cc=ffffff&tc=434d58&ic=4c71f2&bc=e4e2e2">
+</a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vitoliot)](https://github.com/ryo-ma/github-profile-trophy)
- 
-![GitHub metrics](https://metrics.lecoq.io/Vitoliot) 
+---
+
+### About me
+- 🌱 I’m currently learning **Computer Science** at ITMO University
+- 📫 I'm Working at ITMO University as a programmer 
+- 🌍 I speak English and Russian
+- :grin: I'm learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/Vitoliot/)
+
+<div id="leetcode" align="center">
+<a href="https://github.com/Vitoliot">
+    <img src="https://leetcard.jacoblin.cool/Vitoliot?theme=light&font=Zen%20Kurenaido&ext=heatmap">
+</a>
+</div>
+
+---
+
+### Languages and tools
+
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="go" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="oracle" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/Vitoliot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" title="reactbootstrap" width="40" height="40"/>&nbsp;
+</a>
+
+---
+
+### My statistics
+
+<div id="stat" align="center">
+    <a href="https://github.com/Vitoliot">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitoliot&theme=default"/>
+    </a>
+    <a href="https://github.com/Vitoliot">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitoliot&theme=default"/>
+    </a>
+    <a href="https://github.com/Vitoliot">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitoliot&theme=default"/>
+    </a>
+</div>
+
+---
+
+### My projects (pinned) :point_down:
