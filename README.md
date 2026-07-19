@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Viktor 👋</h1>
-  <h3>Go Backend Developer from Saint Petersburg</h3>
+  <h1>Привет, я Виктор 👋</h1>
+  <h3>Go Backend-разработчик из Санкт-Петербурга</h3>
 
   <p>
-    Distributed systems · Reliable asynchronous processing · LLM-powered applications
+    Распределённые системы · Надёжная асинхронная обработка · Приложения на базе LLM
   </p>
 </div>
 
@@ -17,71 +17,71 @@
   <a href="mailto:panaetvitea@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      alt="Электронная почта"
     />
   </a>
 </div>
 
 ---
 
-## About me
+## Обо мне
 
-- 💻 Go Backend Developer at **Ozon**
-- ⚙️ Interested in backend architecture, distributed systems and reliable asynchronous processing
-- 🤖 Developing an LLM-powered service for automated generation of spaced-repetition flashcards
-- 🎓 Bachelor's thesis: **Backend Development of an LLM-Based Service for Automated Spaced-Repetition Flashcard Generation**
-- 📄 Author of two publications in journals included in the VAK list
-- 🌍 I speak Russian and English
-- 📍 Based in Saint Petersburg
+* 💻 Go Backend-разработчик в **Ozon**
+* ⚙️ Интересуюсь backend-архитектурой, распределёнными системами и надёжной асинхронной обработкой
+* 🤖 Разрабатываю сервис на базе LLM для автоматической генерации карточек интервального повторения
+* 🎓 Тема выпускной квалификационной работы: **«Backend-разработка сервиса на базе LLM для автоматической генерации карточек интервального повторения»**
+* 📄 Автор двух публикаций в журналах, входящих в перечень ВАК
+* 🌍 Владею русским и английским языками
+* 📍 Живу в Санкт-Петербурге
 
 ---
 
-## Featured projects
+## Избранные проекты
 
 ### [Auto Anki Generator](https://github.com/Vitoliot/auto-anki-generator)
 
-Go backend for automated generation of spaced-repetition flashcards from educational materials using large language models.
+Backend-сервис на Go для автоматической генерации карточек интервального повторения из учебных материалов с использованием больших языковых моделей.
 
-**Engineering focus:**
+**Основные инженерные задачи:**
 
-- asynchronous job processing;
-- Redis Streams and consumer groups;
-- retries and exponential backoff;
-- dead-letter queues;
-- recovery of pending messages;
-- PostgreSQL data storage;
-- LLM integration and response validation.
+* асинхронная обработка задач;
+* Redis Streams и группы потребителей;
+* повторные попытки и экспоненциальная задержка;
+* очереди необработанных сообщений — Dead Letter Queue;
+* восстановление сообщений, оставшихся в состоянии ожидания;
+* хранение данных в PostgreSQL;
+* интеграция с LLM и валидация ответов.
 
 ---
 
-### FastRead
+### [FastRead](https://github.com/Vitoliot/fastread)
 
-Educational platform for speed-reading training with interactive exercises, structured learning programs and progress tracking.
+Образовательная платформа для тренировки скорочтения с интерактивными упражнениями, структурированными программами обучения и отслеживанием прогресса.
 
-**Engineering focus:**
+**Основные инженерные задачи:**
 
-- educational course management;
-- personalized training sessions;
-- calculation and storage of learning results;
-- progress analytics;
-- integration between backend and web client.
+* управление образовательными курсами;
+* формирование персонализированных тренировок;
+* расчёт и хранение результатов обучения;
+* аналитика прогресса;
+* интеграция backend-сервиса с веб-клиентом.
 
-Related repositories:
+Связанные репозитории:
 
-- FastRead backend — add the repository link here;
-- [FastRead web client](https://github.com/Vitoliot/diplom).
+* [FastRead backend](https://github.com/Vitoliot/fastread);
+* [Веб-клиент FastRead](https://github.com/Vitoliot/diplom).
 
 ---
 
 ### [Flutter Weather App](https://github.com/Vitoliot/TestWeatherFlutterApp)
 
-Cross-platform mobile application for displaying weather data from an external API.
+Кроссплатформенное мобильное приложение для отображения данных о погоде, получаемых из внешнего API.
 
-The project demonstrates Flutter development, asynchronous HTTP requests, JSON processing and mobile UI state management.
+Проект демонстрирует разработку на Flutter, выполнение асинхронных HTTP-запросов, обработку JSON и управление состоянием пользовательского интерфейса мобильного приложения.
 
 ---
 
-## Technologies
+## Технологии
 
 ### Backend
 
@@ -92,7 +92,7 @@ The project demonstrates Flutter development, asynchronous HTTP requests, JSON p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
 </p>
 
-### Additional experience
+### Дополнительный опыт
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
@@ -102,7 +102,7 @@ The project demonstrates Flutter development, asynchronous HTTP requests, JSON p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="45" height="45"/>&nbsp;
 </p>
 
-### Engineering tools
+### Инструменты разработки
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
@@ -112,17 +112,17 @@ The project demonstrates Flutter development, asynchronous HTTP requests, JSON p
 
 ---
 
-## GitHub statistics
+## Статистика GitHub
 
 <div id="statistics" align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitoliot&theme=default"
-    alt="GitHub profile details"
+    alt="Статистика профиля GitHub"
   />
 </div>
 
 ---
 
 <div align="center">
-  <b>See my pinned repositories below ↓</b>
+  <b>Избранные репозитории представлены ниже ↓</b>
 </div>
